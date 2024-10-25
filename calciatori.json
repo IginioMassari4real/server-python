@@ -1,0 +1,44 @@
+{
+  "calciatori": [
+    {
+      "nome": "Lionel Messi",
+      "nazione": "Argentina",
+      "squadra": "Inter Miami",
+      "ruolo": "Attaccante",
+      "numero_maglia": 10,
+      "data_di_nascita": "1987-06-24"
+    },
+    {
+      "nome": "Cristiano Ronaldo",
+      "nazione": "Portogallo",
+      "squadra": "Al-Nassr",
+      "ruolo": "Attaccante",
+      "numero_maglia": 7,
+      "data_di_nascita": "1985-02-05"
+    },
+    {
+      "nome": "Neymar Jr.",
+      "nazione": "Brasile",
+      "squadra": "Al-Hilal",
+      "ruolo": "Attaccante",
+      "numero_maglia": 10,
+      "data_di_nascita": "1992-02-05"
+    },
+    {
+      "nome": "Kylian Mbappé",
+      "nazione": "Francia",
+      "squadra": "Paris Saint-Germain",
+      "ruolo": "Attaccante",
+      "numero_maglia": 7,
+      "data_di_nascita": "1998-12-20"
+    },
+    {
+      "nome": "Kevin De Bruyne",
+      "nazione": "Belgio",
+      "squadra": "Manchester City",
+      "ruolo": "Centrocampista",
+      "numero_maglia": 17,
+      "data_di_nascita": "1991-06-28"
+    }
+  ]
+}
